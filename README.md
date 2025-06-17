@@ -34,3 +34,6 @@ Open **index.html** in your browser or through Electron, and update script & sty
 
 > [!NOTE]
 > Make sure to adjust any paths in index.html to correctly reference your assets after build.
+
+## 🆘 Help & Support
+If you need any help or support to the project, please add my discord **._.notepad**
