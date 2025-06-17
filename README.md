@@ -28,5 +28,5 @@ npm run build
 5. Fix to work
 Open **index.html** in your browser or through Electron, and update script & stylesheet paths by adding **.** (dot) to relative URLs.
 
-## 🛠️ Notes
-Make sure to adjust any paths in index.html to correctly reference your assets after build.
+> [!NOTE]
+> Make sure to adjust any paths in index.html to correctly reference your assets after build.
