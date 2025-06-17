@@ -1,5 +1,6 @@
 import { ThemeProvider } from './components/theme-provider';
 import { ModeToggle } from './components/mode-toggle';
+import Spinner from './components/Spinner';
 function App() {
   return (
     <ThemeProvider defaultTheme="dark" storageKey="vite-ui-theme">
@@ -9,6 +10,7 @@ function App() {
         </div>
         <ModeToggle/>
         <h1 className='font-bold text-2xl'>Shadcn Electron</h1>
+        <Spinner/>
       </div>
     </ThemeProvider>
   );
