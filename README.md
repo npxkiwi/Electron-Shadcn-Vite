@@ -6,6 +6,10 @@ A simple starter template for building Electron apps with Vite and Shadcn UI.
 * 🎨 Shadcn UI components
 * 🖥️ Electron integration for building desktop applications
 
+## 🆕 Added Components
+* ✅ Theme selector
+* 🔄 Spinner
+
 ## 📦 Installation & Usage
 1. Clone the repository
 ```
