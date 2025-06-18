@@ -1,5 +1,6 @@
 # Electron Vite Shadcn
-A simple starter template for building Electron apps with Vite and Shadcn UI.
+A simple starter template for building Electron apps with Vite and Shadcn UI.   
+If you find any errors or have made some better changes please make a pull request.
 
 ## 🚀 Features
 * ⚡ Vite for fast builds and HMR
